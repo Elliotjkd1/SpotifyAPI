@@ -1,1 +1,1 @@
-A Spotify Dashboard webpage build using flask and the Spotify Dev API 
+A Spotify Dashboard webpage built using flask and the Spotify Dev API 
